@@ -4,5 +4,5 @@
 	branch = HEAD
 [submodule "SaturnCoefficient"]
 	path = SaturnCoefficient
-	url = https://github.com/davidechicco/saturncoefficient
+	url = https://github.com/davidechicco/saturncoefficient_r_package
 	subdir = SaturnCoefficient
